@@ -1,4 +1,6 @@
 # Code for TGA Friedman Kinetic Analysis
+# made by Daniel Martinez Arias, Synthesis Laboratory USFQ
+# https://researchusfq.wixsite.com/orgsynth
 
 import pandas as pd
 import numpy as np
